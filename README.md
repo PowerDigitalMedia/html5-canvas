@@ -4,7 +4,7 @@
 
 ### `( FILE: draw-image.js )`
 
-- Sample code for loading processing an image on the Html5 Canvas
+- Sample code for loading and processing an image on the Html5 Canvas
 
 <br/>
 

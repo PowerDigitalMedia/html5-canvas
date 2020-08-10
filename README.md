@@ -1,6 +1,10 @@
 
 # HTML5 Canvas
 
+Brief excerpt of code used to draw an image to HTML5 canvas.
+[View Example](https://powerdigitalmedia.net/xamples/imagesearch)
+
+
 
 #### `( FILE: draw-image.js )`
 

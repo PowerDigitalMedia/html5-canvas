@@ -2,7 +2,7 @@
 # HTML5 Canvas
 
 Brief excerpt of code used to draw an image to HTML5 canvas.
-[View Example](https://powerdigitalmedia.net/xamples/imagesearch)
+Please see and example of this code within <a href="https://powerdigitalmedia.net/xamples/imagesearch" target="_blank">"Image Search"</a>.
 
 
 
